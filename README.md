@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Salma Osama
-I'm a Senior .Net Application Developer with more than 5 years of experience in Web Application Development including analysis, design, development, testing and deployment.
-A hard-working, detail-oriented and self-motivated with strong problem solving skills and experience in learning and adopting new technologies to maximize development efficiency and innovate applications.
+A Senior Application Developer with more than 5 years of experience in Web Application Development and a complete understanding of the entire software development lifecycle.
+A hard-working, detail-oriented and self-motivated with strong problem-solving skills and experience in learning and adopting new technologies to maximize development efficiency and develop innovative applications.
 - 👀 I’m interested in developing web applications
 - 🌱 I’m currently learning React
 <!--- 
